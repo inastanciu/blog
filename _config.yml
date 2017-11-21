@@ -15,11 +15,11 @@ tagline:             'tagline'
 description:         'description'
 url:                 site url
 rss:                 rss feed url
-baseurl:             '/mickey/'
-baseurl_posts_img:   '/mickey/assets/images/posts/'
-baseurl_featured_img: '/mickey/assets/images/hero/'
-baseurl_featured_thumbnail: '/mickey/assets/images/thumbnail/'
-baseurl_javascripts: '/mickey/assets/javascripts/'
+baseurl:             '/blog/'
+baseurl_posts_img:   '/blog/assets/images/posts/'
+baseurl_featured_img: '/blog/assets/images/hero/'
+baseurl_featured_thumbnail: '/blog/assets/images/thumbnail/'
+baseurl_javascripts: '/blog/assets/javascripts/'
 icon:                your site icon path # /assets/img/icon.png [best 300px X 300px]
 disqus:              disqus_shortname # get it on https://disqus.com/admin/
 
